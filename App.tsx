@@ -40,9 +40,9 @@ const App: React.FC = () => {
       <footer className="relative z-20 border-t border-stone-800 bg-black/80 py-12 px-4 backdrop-blur-sm">
         <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-8 opacity-60">
           <div className="font-typewriter text-xs text-stone-500 text-center md:text-left">
-            © 2025 PROYECTO DE CIENCIA DE DATOS - UNINORTE
+            © 2026 PROYECTO DE CIENCIAS DE DATOS - UNINORTE
             <br />
-            ESTADO DEL ARTE: ACTUALIZADO FEB 2025
+            ESTADO DEL ARTE: ACTUALIZADO FEB 2026
           </div>
         </div>
       </footer>

@@ -1,8 +1,8 @@
 
 export enum Era {
   ERA_1 = "ERA 1: Descubrimiento y Formalización Matemática",
-  ERA_2 = "ERA 2: La Era de la Auditoría y Falsificación Humana",
-  ERA_3 = "ERA 3: Transición, Casos de Estudio y Limitaciones",
+  ERA_2 = "ERA 2: La Revolución Forense y la Falsificación Humana",
+  ERA_3 = "ERA 3: Transición hacia la Ciencia de Datos",
   ERA_4 = "ERA 4: El Estado del Arte (ML, IA y Datos Sintéticos)",
 }
 
@@ -13,5 +13,7 @@ export interface TimelineEvent {
   title: string;
   role: string;
   era: Era;
-  description?: string;
+  reference: string;
+  url?: string;
+  doi?: string;
 }

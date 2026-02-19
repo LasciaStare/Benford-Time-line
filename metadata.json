@@ -1,0 +1,5 @@
+{
+  "name": "Benford Noir: Forensic Investigation Timeline",
+  "description": "An interactive, noir-themed timeline for fraud detection research using Benford's Law, featuring scroll-driven animations and deep-dive investigation aesthetics.",
+  "requestFramePermissions": []
+}

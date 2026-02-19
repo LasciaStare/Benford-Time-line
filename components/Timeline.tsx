@@ -31,7 +31,7 @@ const Timeline: React.FC<TimelineProps> = ({ data }) => {
           {eraIndex === 1 && (
             <div className="relative py-32 flex flex-col items-center justify-center opacity-65 select-none pointer-events-none">
               <div className="w-px h-full bg-stone-800 absolute left-1/2 -translate-x-1/2"></div>
-              <div className="bg-black px-4 py-8 z-10 flex flex-col items-center gap-4">
+              <div className="px-4 py-8 z-10 flex flex-col items-center gap-4">
                 <Clock className="text-white" size={32} />
                 <span className="font-typewriter text-[10px] uppercase tracking-[0.5em] text-white text-center">
                   SALTO TEMPORAL: 58 AÑOS DE SILENCIO CIENTÍFICO

@@ -29,7 +29,7 @@ const Timeline: React.FC<TimelineProps> = ({ data }) => {
         <React.Fragment key={era}>
           {/* Temporal Gap Visual (Between Era 1 and Era 2) */}
           {eraIndex === 1 && (
-            <div className="relative py-32 flex flex-col items-center justify-center opacity-30 select-none pointer-events-none">
+            <div className="relative py-32 flex flex-col items-center justify-center opacity-80 select-none pointer-events-none">
               <div className="w-px h-full bg-stone-800 absolute left-1/2 -translate-x-1/2"></div>
               <div className="bg-black px-4 py-8 z-10 flex flex-col items-center gap-4">
                 <Clock className="text-white" size={32} />

@@ -32,12 +32,12 @@ const Timeline: React.FC<TimelineProps> = ({ data }) => {
             <div className="relative py-32 flex flex-col items-center justify-center opacity-30 select-none pointer-events-none">
               <div className="w-px h-full bg-stone-800 absolute left-1/2 -translate-x-1/2"></div>
               <div className="bg-black px-4 py-8 z-10 flex flex-col items-center gap-4">
-                <Clock className="text-stone-200" size={32} />
-                <span className="font-typewriter text-[10px] uppercase tracking-[0.5em] text-stone-200 text-center">
+                <Clock className="text-white" size={32} />
+                <span className="font-typewriter text-[10px] uppercase tracking-[0.5em] text-white text-center">
                   SALTO TEMPORAL: 58 AÑOS DE SILENCIO CIENTÍFICO
                 </span>
                 <div className="flex gap-2">
-                  {[...Array(5)].map((_, i) => <div key={i} className="w-1 h-1 bg-stone-300 rounded-full"></div>)}
+                  {[...Array(5)].map((_, i) => <div key={i} className="w-1 h-1 bg-white rounded-full"></div>)}
                 </div>
               </div>
             </div>

@@ -21,7 +21,7 @@ export const TIMELINE_DATA: TimelineEvent[] = [
     title: "The Law of Anomalous Numbers",
     reference: "Proceedings of the American Philosophical Society, 78(4), 551-572.",
     url: "https://www.jstor.org/stable/984802",
-    role: "El formalizador. Demostró la ley en miles de datos y definió la ecuación logarítmica exacta que se usará para evaluar la Base de datos #1 (Real legítima).",
+    role: "El formalizador. Demostró la ley en miles de datos y definió la ecuación logarítmica exacta que se usará para evaluar la Base de datos #1 (Legítima).",
     era: Era.ERA_1,
   },
   // ERA 2

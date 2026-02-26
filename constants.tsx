@@ -11,7 +11,7 @@ export const TIMELINE_DATA: TimelineEvent[] = [
     reference: "American Journal of Mathematics, 4(1), 39-40.",
     doi: "https://doi.org/10.2307/2369148",
     url: "https://www.jstor.org/stable/2369148",
-    role: "El descubridor empírico. Observó el desgaste desigual en las páginas de los libros de tablas de logaritmos. Es tu punto de partida histórico.",
+    role: "El descubridor empírico. Observó el desgaste desigual en las páginas de los libros de tablas de logaritmos. Es el punto de partida histórico.",
     era: Era.ERA_1,
   },
   {
@@ -21,7 +21,7 @@ export const TIMELINE_DATA: TimelineEvent[] = [
     title: "The Law of Anomalous Numbers",
     reference: "Proceedings of the American Philosophical Society, 78(4), 551-572.",
     url: "https://www.jstor.org/stable/984802",
-    role: "El formalizador. Demostró la ley en miles de datos y definió la ecuación logarítmica exacta que usarás para evaluar tu Base de datos #1 (Real legítima).",
+    role: "El formalizador. Demostró la ley en miles de datos y definió la ecuación logarítmica exacta que se usará para evaluar la Base de datos #1 (Real legítima).",
     era: Era.ERA_1,
   },
   // ERA 2
@@ -75,7 +75,7 @@ export const TIMELINE_DATA: TimelineEvent[] = [
     title: "Benford’s law: Theory, the general law of relative quantities, and forensic fraud detection applications",
     reference: "World Scientific.",
     url: "https://research-ebsco-com.ezproxy.uninorte.edu.co/linkprocessor/plink?id=985c871a-c9b3-37f8-94f4-938d6ddc2906",
-    role: "La guía métrica. Tu fuente para las fórmulas de bondad de ajuste que programarás: Chi-cuadrado y MAD.",
+    role: "La guía métrica. La fuente para las fórmulas de bondad de ajuste: Chi-cuadrado y MAD.",
     era: Era.ERA_3,
   },
   {
@@ -153,7 +153,7 @@ export const TIMELINE_DATA: TimelineEvent[] = [
     reference: "Springer Chapter, ISBN/DOI link below.",
     doi: "https://doi.org/10.1007/978-3-031-50381-8_54",
     url: "https://link.springer.com/chapter/10.1007/978-3-031-50381-8_54",
-    role: "Tu mapa metodológico. Combinan Benford con Random Forest y K-Means para mejorar el poder discriminativo.",
+    role: "El mapa metodológico. Combinan Benford con Random Forest y K-Means para mejorar el poder discriminativo.",
     era: Era.ERA_4,
   },
   {
@@ -164,7 +164,7 @@ export const TIMELINE_DATA: TimelineEvent[] = [
     reference: "Socio-Economic Planning Sciences, 95.",
     doi: "https://doi.org/10.1016/j.seps.2024.102008",
     url: "https://www.sciencedirect.com/science/article/pii/S0038012124002076",
-    role: "Fundamento de tu Base de Datos Híbrida (#5). Explica qué ocurre cuando mezclas datos reales con fabricados.",
+    role: "Fundamento de la Base de Datos Híbrida (#5). Explica qué ocurre cuando mezclas datos reales con fabricados.",
     era: Era.ERA_4,
   },
   {
@@ -175,7 +175,7 @@ export const TIMELINE_DATA: TimelineEvent[] = [
     reference: "6th International Conference ICICV.",
     doi: "https://doi.org/10.1109/ICICV64824.2025.11085965",
     url: "https://ieeexplore.ieee.org/document/11085965",
-    role: "Vigencia absoluta. Demuestra que tu proyecto aborda un problema que se está publicando en la frontera este mismo año.",
+    role: "Vigencia absoluta. Demuestra que el proyecto aborda un problema que se está publicando en la frontera estos mismos años.",
     era: Era.ERA_4,
   },
 ];
